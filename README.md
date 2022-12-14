@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./design/screenshot.png](./screenshot.jp
+![My-work](./design/screenshot.png)
 
 ### Links
 
@@ -48,5 +48,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/thecodophile)
-- Twitter - [@yourusername](https://www.twitter.com/thecodophile)
+- Frontend Mentor - [@thecodophile](https://www.frontendmentor.io/profile/thecodophile)
+- Twitter - [@thecodophile](https://www.twitter.com/thecodophile)
