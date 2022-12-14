@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-61kiuvN3yL)
 - Live Site URL: [live site](https://product-parfum-card-component.netlify.app/)
 
 ## My process
